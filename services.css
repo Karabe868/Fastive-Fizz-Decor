@@ -150,7 +150,7 @@ body {
 
 header {
   background-color: #ff6f61;
-  color: white;
+  color: Pink;
   padding: 1rem;
   text-align: center;
 }
@@ -161,7 +161,7 @@ nav {
 
 nav a {
   margin: 0 10px;
-  color: white;
+  color: Pink;
   text-decoration: none;
   font-weight: bold;
 }
@@ -176,7 +176,7 @@ main {
 
 footer {
   background-color: #333;
-  color: white;
+  color: Pink;
   text-align: center;
   padding: 1rem;
   position: relative;
